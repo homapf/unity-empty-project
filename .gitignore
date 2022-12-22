@@ -1,0 +1,10 @@
+﻿Library
+Logs
+*.sln
+Temp
+Packages/packages-lock.json
+obj
+*.csproj
+.idea
+Build
+UserSettings
